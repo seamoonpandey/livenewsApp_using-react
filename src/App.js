@@ -21,7 +21,7 @@ export class App extends Component {
   render() {
     return (
 
-      <div style={{ backgroundColor: 'purple' }}>
+      <div style={{ backgroundColor: 'black' }}>
         <Router>
           <Navbar />
           <LoadingBar
